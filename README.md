@@ -1,3 +1,8 @@
+# Resources
+1. [3b1b playlist - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+
+
 # linear-algebra-notes
 1. [Vector Space and Sub Space](https://github.com/rakaar/linear-algebra-notes/blob/main/vector%20space%20sub%20space.pdf)
 2. [Representation of Vector and Linear Transformation](https://github.com/rakaar/linear-algebra-notes/blob/main/reprsention%20of%20vector%2C%20linear%20transformation.pdf)
