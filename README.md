@@ -12,3 +12,4 @@
 5. [Cramer's Rule geometrical interpretation](https://github.com/rakaar/linear-algebra-notes/blob/main/cramer's%20rule.pdf)
 6. [Change of Basis](https://github.com/rakaar/linear-algebra-notes/blob/main/change%20of%20basis.pdf)
 7. [Eigen Vectors](https://github.com/rakaar/linear-algebra-notes/blob/main/eigen%20Vectors.pdf)
+8. [More Eigen Stuff from Linear Algebra Book by G.Strang](https://github.com/rakaar/linear-algebra-notes/blob/main/more%20eigen%20stuff.pdf)
