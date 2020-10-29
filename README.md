@@ -15,6 +15,7 @@
 8. [More Eigen Stuff from Linear Algebra Book by G.Strang](https://github.com/rakaar/linear-algebra-notes/blob/main/more%20eigen%20stuff.pdf)
 9. [Complex Matrices - Hermitian and Unitary Matrices](https://github.com/rakaar/linear-algebra-notes/blob/main/complex%20matrices.pdf)
 10. [Abstract Vector Space](https://github.com/rakaar/linear-algebra-notes/blob/main/Abstract%20Vector%20Space.pdf)
+11. [Problems - Complex Matrices - Chapter-9.2](https://github.com/rakaar/linear-algebra-notes/blob/main/Problems%20-%20Complex%20matrices(chapter%209.2).pdf)
 
 # Errata
 - [Complex Matrices - Hermitian and Unitary Matrices](https://github.com/rakaar/linear-algebra-notes/blob/main/complex%20matrices.pdf): Last but one page:- X_transpose = X^(-1), not X. Definition of Orthogonal matrix was mentioned wrong
