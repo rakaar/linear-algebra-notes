@@ -1,6 +1,6 @@
 # Resources
 1. [3b1b playlist - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-
+2. [Visualization tool by shad.io](https://shad.io/MatVis/)
 
 
 
